@@ -25,7 +25,7 @@ https://github.com/cli/cli#installation
 1. Clone this repository / Склонировать репозиторий:
 ```bash
 git clone https://github.com/kyoukisu/mgh
-cd ./mgh-main
+cd ./mgh
 ```
 
 2. Make executable / Сделать файл исполняемым:
