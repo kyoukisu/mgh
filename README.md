@@ -1,5 +1,6 @@
 # Multi-User GitHub (mgh) Script
 
+
 ! git only, IDE support not tested, may not work
 
 This script is designed to handle multiple GitHub users on the same machine. It can comment out the existing configuration, authenticate a new user, swap between users, show all existing user configurations, and initialize a backup file for the current user in the `hosts.yml` file.
